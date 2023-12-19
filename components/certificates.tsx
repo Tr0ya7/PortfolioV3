@@ -1,0 +1,1 @@
+export default function Certificates() { return <section className="min-h-screen bg-vBlue800">teste</section> }

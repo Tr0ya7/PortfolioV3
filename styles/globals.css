@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contact {
+  width: .75rem;
+
+  @media (min-width: 768px) {
+    width: auto;
+  }
+}
+
+@keyframes floating {
+  0%, 100% {
+    transform: translate(0, -15px);
+  }
+
+  50% {
+    transform: translate(0, 20px);
+  }
+}
+
+.animate-floating {
+  animation: floating 7s infinite
+}
