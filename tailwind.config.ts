@@ -25,11 +25,18 @@ const config: Config = {
         vW: '19.5rem'
       },
       screens: {
-        'vMScreen': '375px',
-        'vGScreen': '425px'
+        vMScreen: '375px',
+        vGScreen: '425px',
+        vLaptopGScreen: '1440px'
       },
       gap: {
-        'vGap': '5%'
+        vGap: '5%'
+      },
+      fontSize: {
+        vTextXls: '11px'
+      },
+      transitionProperty: {
+        vTransition: '.3s'
       }
     },
   },

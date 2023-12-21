@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "src": "/images/habilitsShields/html.png",
+        "title": "HTML5",
+        "description": "HTML é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas da web. Ela é a base fundamental para a construção de sites e permite definir a forma como os elementos e informações são exibidos no navegador."
+    },
+    {
+        "id": 2,
+        "src": "/images/habilitsShields/css.png",
+        "title": "CSS3",
+        "description": "CSS é uma linguagem de estilo utilizada em conjunto com o HTML para controlar a apresentação e o layout de páginas da web. Enquanto o HTML define a estrutura e os elementos da página, o CSS é responsável por determinar como esses elementos devem ser estilizados e posicionados na tela."
+    },
+    {
+        "id": 3,
+        "src": "/images/habilitsShields/javascript.png",
+        "title": "JAVASCRIPT EC6",
+        "description": "JavaScript é uma linguagem de programação de alto nível, dinâmica e interpretada, amplamente utilizada para desenvolvimento web. Ela foi criada originalmente para ser executada nos navegadores, permitindo a criação de interatividade e dinamismo nas páginas da web."
+    },
+    {
+        "id": 4,
+        "src": "/images/habilitsShields/bootstrap.png",
+        "title": "BOOTSTRAP",
+        "description": "Bootstrap é um framework de código aberto desenvolvido pelo Twitter que facilita a criação de interfaces web responsivas e estilizadas. Ele é baseado em HTML, CSS e JavaScript e fornece um conjunto de estilos predefinidos, componentes e utilitários que podem ser usados como base para o design e desenvolvimento de sites e aplicativos web."
+    },
+    {
+        "id": 5,
+        "src": "/images/habilitsShields/sass.png",
+        "title": "SASS",
+        "description": "Sass oferece recursos adicionais que tornam a escrita e a manutenção de folhas de estilo mais eficientes e poderosas. Ele introduz recursos como variáveis, aninhamento de seletores, mixins (fragmentos de código reutilizáveis) e importação de arquivos, permitindo a criação de estilos mais organizados e modulares."
+    },
+    {
+        "id": 6,
+        "src": "/images/habilitsShields/styled-components.png",
+        "title": "STYLED COMPONENTS",
+        "description": "Styled Components é uma biblioteca popular para estilizar componentes em aplicações web, especialmente em ambientes JavaScript e React. A principal característica do Styled Components é a capacidade de escrever estilos CSS diretamente no código JavaScript ou TypeScript, eliminando a necessidade de criar arquivos CSS separados."
+    },
+    {
+        "id": 7,
+        "src": "/images/habilitsShields/react.png",
+        "title": "REACT",
+        "description": "React é uma biblioteca de JavaScript amplamente utilizada para criar interfaces de usuário interativas e dinâmicas em aplicações web."
+    },
+    {
+        "id": 8,
+        "src": "/images/habilitsShields/next.png",
+        "title": "NEXT.JS",
+        "description": "Next.js é um framework de código aberto para o desenvolvimento de aplicações web em React. Ele é construído sobre o React e oferece uma série de recursos adicionais que facilitam a criação de aplicações web rápidas, escaláveis e com ótimo desempenho."
+    },
+    {
+        "id": 9,
+        "src": "/images/habilitsShields/c-sharp.png",
+        "title": "C#",
+        "description": "C# é uma linguagem de programação desenvolvida pela Microsoft. É usada para criar software, como aplicativos de desktop, jogos, aplicativos móveis e muito mais."
+    },
+    {
+        "id": 10,
+        "src": "/images/habilitsShields/dbs.png",
+        "title": "DATA BASES",
+        "description": "O MySQL, o SQLite e o Firebird são sistemas de gerenciamento de banco de dados (DBMS) usados para armazenar e organizar informações em aplicativos de software. Eles permitem que os aplicativos acessem, gerenciem e recuperem dados de maneira eficiente."
+    },
+    {
+        "id": 11,
+        "src": "/images/habilitsShields/git.png",
+        "title": "GIT",
+        "description": "Git é um sistema de controle de versão distribuído que permite o rastreamento das alterações feitas em um projeto de software ao longo do tempo. Ele permite que várias pessoas trabalhem em um mesmo projeto simultaneamente, mantendo um histórico detalhado das modificações feitas em cada arquivo."
+    },
+    {
+        "id": 12,
+        "src": "/images/habilitsShields/github.png",
+        "title": "GITHUB",
+        "description": "O GitHub é uma plataforma online onde as pessoas podem armazenar, compartilhar e colaborar em projetos de software. É como uma rede social para desenvolvedores de software, onde você pode criar e hospedar seu código-fonte, controlar as alterações feitas nele, colaborar com outras pessoas e acompanhar o progresso do seu projeto."
+    }
+]

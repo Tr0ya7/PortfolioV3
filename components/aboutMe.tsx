@@ -2,11 +2,9 @@ import Image from 'next/Image'
 
 export default function AboutMe() { 
     return (
-        <section 
-            className="h-[648px] bg-vBlue950 items-center md:flex md:gap-x-vGap md:p-[5%]" //lg:gap-x-[75px] colocar em % lg:p-[120px]
-        >
+        <section className="max-h-[648px] bg-vBlue950 items-center md:flex md:gap-x-vGap md:p-[10%]">
             <div>
-                <Image className="hidden md:flex" src="/images/about.png" width={1500} height={1500} alt="about" />
+                <Image className="hidden lg:flex" src="/images/about.png" width={1500} height={1500} alt="about" />
             </div>
             <ul className="p-10 md:leading-7 md:p-0">
                 <li className="text-xl text-center mb-1.5 vGScreen:pt-10 md:text-3xl md:pt-0">

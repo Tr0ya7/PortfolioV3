@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #5A7B91;
+}
+
 .contact {
   width: .75rem;
 
@@ -22,4 +30,8 @@
 
 .animate-floating {
   animation: floating 7s infinite
+}
+
+.font {
+  font-family: 'Press Start 2P';
 }
