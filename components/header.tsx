@@ -52,7 +52,7 @@ export default function Header() {
                     className="" 
                     href="https://drive.google.com/file/d/1DWy35vNTxF5Z84zV1mAii6gRQx5KDdfE/view?usp=sharing"
                 >
-                    {/*Currículo*/}
+                    Currículo
                 </HeaderComponents>
             </div>
             <div className="fixed end-0 lg:hidden">

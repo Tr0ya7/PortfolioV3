@@ -13,10 +13,12 @@ export default function ContactMe() {
         >
             <div className="gap-24 content-center lg:flex">
                 <div>
-                    <div className="h-fit text-4xl font-bold font-saira md:text-6xl lg:mt-12">
+                    <div 
+                        className="h-fit text-4xl font-bold font-saira md:text-6xl lg:mt-12 vLaptopGScreen:text-[5rem]"
+                    >
                         Luiz Henrique
                     </div>
-                    <div className="text-xl font-handjet md:text-3xl">
+                    <div className="text-xl font-handjet md:text-3xl vLaptopGScreen:text-[2.5rem]">
                         Desenvolvedor Fullstack
                     </div>
                     <div className="flex">

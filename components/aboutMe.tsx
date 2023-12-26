@@ -2,15 +2,32 @@ import Image from 'next/Image'
 
 export default function AboutMe() { 
     return (
-        <section className="max-h-[648px] bg-vBlue950 items-center md:flex md:gap-x-vGap md:p-[10%]">
-            <div>
-                <Image className="hidden lg:flex" src="/images/about.png" width={1500} height={1500} alt="about" />
+        <section 
+            className="
+                max-h-[648px] bg-vBlue950 items-center 
+                md:flex md:gap-x-vGap md:p-[10%] lg:gap-x-[13%] vLaptopGScreen:p-[15%]
+            "
+        >
+            <div className="vLaptopGScreen:max-w-[250px]">
+                <Image 
+                    className="hidden lg:flex vLaptopGScreen:w-[2000px]" 
+                    src="/images/about.png" 
+                    width={1500} 
+                    height={1500} 
+                    alt="about" 
+                />
             </div>
             <ul className="p-10 md:leading-7 md:p-0">
                 <li className="text-xl text-center mb-1.5 vGScreen:pt-10 md:text-3xl md:pt-0">
                     Sobre mim
                 </li>
-                <div className="text-sm vMScreen:text-center vGScreen:text-left md:text-[18px] md:leading-[30px]">
+                <div 
+                    className="
+                        text-sm 
+                        vMScreen:text-center vGScreen:text-left md:text-[18px] md:leading-[30px] 
+                        vLaptopGScreen:text-[22px]
+                    "
+                >
                     <li className="mb-2.5">
                         Sou uma pessoa apaixonada por programação e tecnologia de modo geral. Minha jornada me conduziu 
                         por um profundo envolvimento com a manutenção de diversos bancos de dados, também vindo a 

@@ -5,16 +5,16 @@ import Image from "next/image"
 export default function Habilits() { 
     const [info, setInfo] = useState(['/* Selecione uma tecnologia */'])
 
-    return ( //quando chegar em notebook = mudar como estão os elementos mostrados na tela
+    return (
         <section 
             className="
-                max-h-[704px] bg-vBlue800 p-10 text-center 
+                max-h-[704px] bg-vBlue800 p-10 text-center justify-center
                 md:h-[495px] lg:text-left lg:min-h-[600px] lg:p-[6.4%]
-                vLaptopGScreen:p-[160px] vLaptopGScreen:h-[704px]
+                vLaptopGScreen:px-[204px] vLaptopGScreen:py-[170px] vLaptopGScreen:h-[704px] vLaptopGScreen:flex
             "
-        > {/*ir diminuindo o padding*/}
-            <ul className="relative lg:mt-20 vLaptopGScreen:mt-9"> {/*alinhar ao meio em todas as telas*/}
-                <div className="flex flex-col lg:w-[440px] lg:absolute lg:right-0"> {/*ir encolhendo o padding*/}
+        >
+            <ul className="relative lg:mt-20 lg:max-w-[1260px] vLaptopGScreen:mt-0">
+                <div className="flex flex-col lg:w-[440px] lg:absolute lg:right-0">
                     <div>
                         <li className="font text-2xl lg:flex lg:text-4xl">
                             Habilidades 
@@ -27,7 +27,7 @@ export default function Habilits() {
                                 h-32 text-vTextXls 
                                 vGScreen:text-[13px] md:px-20 lg:text-base lg:h-fit lg:p-0 vLaptopGScreen:text-xl
                             "
-                        > {/*md:text-base md:max-w-[75%]*/}
+                        >
                             {info[1]}
                         </li>
                     </div>
