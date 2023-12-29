@@ -17,7 +17,7 @@ export default function Habilits() {
             <ul className="relative lg:mt-20 lg:max-w-[1260px] vLaptopGScreen:mt-0">
                 <div className="flex flex-col lg:w-[440px] lg:absolute lg:right-0">
                     <div>
-                        <li className="font text-4xl lg:flex">
+                        <li className="font text-xl md:text-4xl lg:flex">
                             Habilidades 
                         </li>
                         <li className="my-4 text-xs lg:text-base vLaptopGScreen:text-xl">
@@ -36,7 +36,7 @@ export default function Habilits() {
                 <div className="flex justify-center lg:justify-start vLaptopGScreen:w-[1290px]">
                     <li 
                         className="
-                            flex flex-wrap justify-center gap-x-3 gap-y-2 mt-5 max-w-xs min-h-[188px]
+                            flex flex-wrap justify-center gap-x-3 gap-y-2 mt-5 max-w-xs min-h-[188px] w-[300px]
                             lg:gap-x-5 lg:gap-y-4 lg:max-w-[50%] vLaptopGScreen:gap-x-9 
                         "
                     >
