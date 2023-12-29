@@ -7,9 +7,7 @@ interface Props {
     href: string
 }
 
-export default function HeaderComponents({ 
-    className = 'rounded-xl w-fit p-2 bg-vTransparent shadow-vShadow mx-7 mt-2', children, href
-}: Props) {
+export default function HeaderComponents({ className, children, href }: Props) {
     return (
         <div>
             <ul className={ className }>

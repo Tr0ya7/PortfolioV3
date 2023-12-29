@@ -35,3 +35,12 @@
 .font {
   font-family: 'Press Start 2P';
 }
+
+.headerComponents {
+  border-radius: 0.75rem;
+  width: fit-content;
+  padding: 0.5rem;
+  background-color: rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 0.75rem 1.75rem;
+}

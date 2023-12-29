@@ -65,22 +65,23 @@ export default function Header() {
                     onClick={MenuOnClick} 
                 />
                 <section className={sectionStyle}>
-                    <HeaderComponents href="#contactMe">
+                    <HeaderComponents className="headerComponents" href="#contactMe">
                         <BiSolidHome />
                     </HeaderComponents>
-                    <HeaderComponents href="#aboutMe">
+                    <HeaderComponents className="headerComponents" href="#aboutMe">
                         <FcAbout />
                     </HeaderComponents>
-                    <HeaderComponents href="#habilits">
+                    <HeaderComponents className="headerComponents" href="#habilits">
                         <AiOutlineUnorderedList />
                     </HeaderComponents>
-                    <HeaderComponents href="#projects">
+                    <HeaderComponents className="headerComponents" href="#projects">
                         <IoMdConstruct />
                     </HeaderComponents>
-                    <HeaderComponents href="#certificates">
+                    <HeaderComponents className="headerComponents" href="#certificates">
                         <LiaCertificateSolid />
                     </HeaderComponents>
                     <HeaderComponents 
+                        className="headerComponents"
                         href="https://drive.google.com/file/d/1DWy35vNTxF5Z84zV1mAii6gRQx5KDdfE/view?usp=sharing"
                     >
                         <IoMdPaper />
