@@ -4,14 +4,14 @@ import CertificatesCard from './certificatesCard'
 export default function Certificates() { 
     return (
         <section className="min-h-screen bg-vBlue800 p-10 text-center">
-            <div className="font text-3xl">
+            <div className="font text-4xl">
                 Certificados
             </div>
-            <div>
+            <div className="flex flex-wrap justify-center gap-x-[20px] max-w-full">
                 {CertificatesInformations.map((data) => 
                     <CertificatesCard 
-                        key={data.id} 
-                        title={data.title} 
+                       key={data.id} 
+                        title={data.title}
                         institution={data.institution} 
                         duration={data.duration} 
                         year={data.year} 

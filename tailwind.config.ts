@@ -12,6 +12,7 @@ const config: Config = {
         vBlue: '#6591b4',
         vBlue800: '#032038',
         vBlue950: '#08263f',
+        vBlue1000: '#02192b',
         vTransparent: '#ffffff30'
       },
       boxShadow: {

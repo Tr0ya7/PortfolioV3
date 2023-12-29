@@ -1,14 +1,14 @@
 import ProjectsCard from './projectsCard'
-import ProjectsInformations from '../json/projectsInformations.json'
+import ProjectsInformations from '../json/projectsInformations.json' //adicionar mais coisa no json
 
-export default function Projects() { //adicionar mais coisa no json
+export default function Projects() {
     return (
         <section className="min-h-[704px] bg-vBlue950 p-10 text-center">
-            <h1 className="font text-3xl">
+            <h1 className="font text-4xl">
                 Projetos
             </h1>
             <div className="flex flex-col justify-center items-center">
-                <div className="flex justify-around flex-wrap max-w-[795px] vLaptopGScreen:max-w-[90%]">
+                <div className="flex justify-around flex-wrap max-w-[795px] vLaptopGScreen:max-w-[795px]">
                     {ProjectsInformations.map((data) => 
                         <ProjectsCard 
                             key={data.id} 

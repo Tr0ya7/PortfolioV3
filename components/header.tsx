@@ -55,7 +55,7 @@ export default function Header() {
                     Currículo
                 </HeaderComponents>
             </div>
-            <div className="fixed end-0 lg:hidden">
+            <div className="fixed end-0 lg:hidden z-10">
                 <Image 
                     className="m-5 rounded-xl w-fit p-4 bg-vTransparent shadow-vShadow" 
                     src={menu} 

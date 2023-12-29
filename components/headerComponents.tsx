@@ -8,7 +8,7 @@ interface Props {
 }
 
 export default function HeaderComponents({ 
-    className = 'rounded-xl w-fit p-2 bg-vTransparent shadow-vShadow mx-7 mt-2', children, href = "/" //tirar esse '=' de href no final do projeto
+    className = 'rounded-xl w-fit p-2 bg-vTransparent shadow-vShadow mx-7 mt-2', children, href = "/"
 }: Props) {
     return (
         <div>
@@ -20,5 +20,5 @@ export default function HeaderComponents({
                 </Link>
             </ul>
         </div>
-    )//fazer uma animação deles vindo do canto da tela ou do icone
+    )
 }

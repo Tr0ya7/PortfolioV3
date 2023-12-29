@@ -56,11 +56,51 @@
         "year": 2023
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "React: praticando React com Js",
         "institution": "Alura",
         "duration": "8 horas",
         "link": "https://drive.google.com/file/d/10n8bGpiDIMnAf1sHjCPR41u-PPqzlRpo/view?usp=sharing",
+        "year": 2023
+    },
+    {
+        "id": 9,
+        "title": "Tailwind CSS: estilizando a sua página com classes utilitárias",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "link": "",
+        "year": 2023
+    },
+    {
+        "id": 10,
+        "title": "React: migrando para TypeScript",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "link": "",
+        "year": 2023
+    },
+    {
+        "id": 11,
+        "title": "Node.js: continue seu projeto full stack criando uma API com Express",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "link": "",
+        "year": 2023
+    },
+    {
+        "id": 12,
+        "title": "Java JRE e JDK: compile e execute o seu programa",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "link": "",
+        "year": 2023
+    },
+    {
+        "id": 13,
+        "title": "Java OO: entendendo a Orientação a Objetos",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "link": "",
         "year": 2023
     }
 ]
