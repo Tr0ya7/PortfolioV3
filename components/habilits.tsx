@@ -12,6 +12,7 @@ export default function Habilits() {
                 md:h-[495px] lg:text-left lg:min-h-[600px] lg:p-[6.4%]
                 vLaptopGScreen:px-[204px] vLaptopGScreen:py-[170px] vLaptopGScreen:h-[704px] vLaptopGScreen:flex
             "
+            id="habilits"
         >
             <ul className="relative lg:mt-20 lg:max-w-[1260px] vLaptopGScreen:mt-0">
                 <div className="flex flex-col lg:w-[440px] lg:absolute lg:right-0">

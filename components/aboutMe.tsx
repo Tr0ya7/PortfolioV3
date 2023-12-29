@@ -7,6 +7,7 @@ export default function AboutMe() {
                 max-h-[648px] bg-vBlue950 items-center 
                 md:flex md:gap-x-vGap md:p-[10%] lg:gap-x-[13%] vLaptopGScreen:p-[15%]
             "
+            id="aboutMe"
         >
             <div className="vLaptopGScreen:max-w-[250px]">
                 <Image 

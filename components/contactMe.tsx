@@ -10,6 +10,7 @@ export default function ContactMe() {
                 min-h-screen bg-gradient-to-br from-vBlue via-vBlue800 to-vBlue950 flex justify-center content-center 
                 flex-wrap
             "
+            id="contactMe"
         >
             <div className="gap-24 content-center lg:flex">
                 <div>

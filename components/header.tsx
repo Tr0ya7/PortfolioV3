@@ -33,19 +33,19 @@ export default function Header() {
                     lg:flex
                 "
             >
-                <HeaderComponents className="">
+                <HeaderComponents href="#contactMe" className="">
                     Início
                 </HeaderComponents>
-                <HeaderComponents className="">
+                <HeaderComponents href="#aboutMe" className="">
                     Sobre mim
                 </HeaderComponents>
-                <HeaderComponents className="">
+                <HeaderComponents href="#habilits" className="">
                     Habilidades
                 </HeaderComponents>
-                <HeaderComponents className="">
+                <HeaderComponents href="#projects" className="">
                     Projetos
                 </HeaderComponents>
-                <HeaderComponents className="">
+                <HeaderComponents href="#certificates" className="">
                     Certificados
                 </HeaderComponents>
                 <HeaderComponents 
@@ -65,19 +65,19 @@ export default function Header() {
                     onClick={MenuOnClick} 
                 />
                 <section className={sectionStyle}>
-                    <HeaderComponents>
+                    <HeaderComponents href="#contactMe">
                         <BiSolidHome />
                     </HeaderComponents>
-                    <HeaderComponents>
+                    <HeaderComponents href="#aboutMe">
                         <FcAbout />
                     </HeaderComponents>
-                    <HeaderComponents>
+                    <HeaderComponents href="#habilits">
                         <AiOutlineUnorderedList />
                     </HeaderComponents>
-                    <HeaderComponents>
+                    <HeaderComponents href="#projects">
                         <IoMdConstruct />
                     </HeaderComponents>
-                    <HeaderComponents>
+                    <HeaderComponents href="#certificates">
                         <LiaCertificateSolid />
                     </HeaderComponents>
                     <HeaderComponents 

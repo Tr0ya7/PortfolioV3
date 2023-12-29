@@ -3,7 +3,7 @@ import ProjectsInformations from '../json/projectsInformations.json' //adicionar
 
 export default function Projects() {
     return (
-        <section className="min-h-[704px] bg-vBlue950 p-10 text-center">
+        <section className="min-h-[704px] bg-vBlue950 p-10 text-center" id="projects">
             <h1 className="font text-4xl">
                 Projetos
             </h1>
