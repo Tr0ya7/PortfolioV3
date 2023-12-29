@@ -1,4 +1,4 @@
-import Image from 'next/Image'
+import Image from 'next/image'
 import { useState } from 'react'
 import HamburguerMenu from '../public/images/hamburguer-menu.png'
 import Close from '../public/images/close.png'
