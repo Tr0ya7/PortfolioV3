@@ -51,13 +51,13 @@
         "id": 9,
         "src": "/images/habilitsShields/node.png",
         "title": "NODE.JS",
-        "description": ""
+        "description": "Node.js é um ambiente de execução JavaScript baseado no motor V8 do Google Chrome, que permite rodar código JavaScript no servidor. Ele é conhecido por sua capacidade de realizar operações assíncronas de forma eficiente, utilizando um modelo de E/S não bloqueante, ideal para aplicações escaláveis e em tempo real. O Node.js é muito utilizado para desenvolvimento de aplicações web e serviços de backend, permitindo aos desenvolvedores utilizar JavaScript tanto no frontend quanto no backend de uma aplicação."
     },
     {
         "id": 10,
         "src": "/images/habilitsShields/java.png",
         "title": "JAVA",
-        "description": ""
+        "description": "O Java é uma linguagem de programação de alto nível e uma plataforma de desenvolvimento. Ele é conhecido por sua portabilidade, segurança e orientação a objetos. O Java permite escrever código uma vez e executá-lo em diferentes sistemas operacionais, utilizando uma máquina virtual (JVM). É amplamente usado em aplicativos corporativos, desenvolvimento Android, aplicações web e em sistemas de grande escala."
     },
     {
         "id": 11,

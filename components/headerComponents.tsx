@@ -8,15 +8,5 @@ interface Props {
 }
 
 export default function HeaderComponents({ className, children, href }: Props) {
-    return (
-        <div>
-            <ul className={ className }>
-                <Link href={ href }>
-                    <li>
-                        { children }
-                    </li>
-                </Link>
-            </ul>
-        </div>
-    )
+    return <div><ul className={ className }><Link href={ href }><li>{ children }</li></Link></ul></div>
 }
