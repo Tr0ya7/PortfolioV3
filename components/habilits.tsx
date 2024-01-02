@@ -8,14 +8,14 @@ export default function Habilits() {
     return (
         <section 
             className="
-                max-h-[704px] bg-vBlue800 p-10 text-center justify-center
+                max-h-[704px] bg-vBlue800 p-10 text-center justify-center lg:relative vLaptopScreen:static
                 md:h-[495px] lg:text-left lg:min-h-[600px] lg:p-[6.4%]
                 vLaptopGScreen:px-[204px] vLaptopGScreen:py-[170px] vLaptopGScreen:h-[704px] vLaptopGScreen:flex
             "
             id="habilits"
         >
-            <ul className="relative lg:mt-20 lg:max-w-[1260px] vLaptopGScreen:mt-0">
-                <div className="flex flex-col lg:w-[440px] lg:absolute lg:right-0">
+            <ul className=" lg:mt-20 lg:max-w-[1260px] vLaptopGScreen:mt-0 vLaptopScreen:relative">
+                <div className="flex flex-col lg:w-[440px] lg:absolute lg:right-2">
                     <div>
                         <li className="font text-xl md:text-4xl lg:flex">
                             Habilidades 
@@ -36,8 +36,8 @@ export default function Habilits() {
                 <div className="flex justify-center lg:justify-start vLaptopGScreen:w-[1290px]">
                     <li 
                         className="
-                            flex flex-wrap justify-center gap-x-3 gap-y-2 mt-5 max-w-xs min-h-[188px] w-[300px]
-                            lg:gap-x-5 lg:gap-y-4 lg:max-w-[50%] vLaptopGScreen:gap-x-9 
+                            flex flex-wrap justify-center gap-x-3 gap-y-2 mt-5 max-w-xs min-h-[188px]
+                            lg:gap-x-5 lg:gap-y-4 lg:max-w-[31rem] vLaptopGScreen:gap-x-9 vLaptopGScreen:max-w-[40rem]
                         "
                     >
                         {habilitsInfo.map((data) => 

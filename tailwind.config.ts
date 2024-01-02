@@ -28,6 +28,7 @@ const config: Config = {
       screens: {
         vMScreen: '375px',
         vGScreen: '425px',
+        vLaptopScreen: '1100px',
         vLaptopGScreen: '1440px'
       },
       gap: {
