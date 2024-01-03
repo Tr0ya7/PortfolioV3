@@ -3,35 +3,35 @@
         "id": 1,
         "image": "/images/projectsImages/telaAbastecimento.png",
         "title": "Tela Abastecimento",
-        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "informations": "Meu último projeto feito para a empresa, onde vendemos esse 'cadastrador' de geradores para uma empresa local",
         "link": "https://github.com/Tr0ya7/Simbolus-TelaAbastecimento"
     },
     {
         "id": 2,
-        "image": "/images/projectsImages/portfólioV1.png",
-        "title": "Portfólio Versão 1",
-        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
-        "link": "https://github.com/Tr0ya7/Portfolio_v1"
+        "image": "/images/projectsImages/api.png",
+        "title": "API Node + Firebird",
+        "informations": "Uma api desenvolvida com node que usa o banco de dados firebird 2.5, sendo consumido com as bibliotecas express e node-firebird.",
+        "link": "https://github.com/Tr0ya7/API-crud-firebirdBD"
     },
     {
         "id": 3,
         "image": "/images/projectsImages/organo.png",
         "title": "Organo",
-        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "informations": "Meu primeiro projeto React, onde criei um cadastrador de funções com diversas funcionalidades. Como mudar a cor da funcionalidade, criar suas próprias e excluir pessoas de tais funcionalidades",
         "link": "https://github.com/Tr0ya7/Organo"
     },
     {
         "id": 4,
         "image": "/images/projectsImages/spaceApp.png",
         "title": "SpaceApp",
-        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "informations": "Um projeto semelhante ao Pinterest, oferecendo um catálogo de imagens do espaço. Os usuários podem ampliá-las no site e marcá-las como favoritas.",
         "link": "https://github.com/Tr0ya7/spaceApp"
     },
     {
         "id": 5,
         "image": "/images/projectsImages/cinetag.png",
         "title": "Cinetag",
-        "informations": "lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "informations": "Um catálogo de filmes no qual é possível assistir os trailers deles e favoritar para assisti-los mais tarde.",
         "link": "https://github.com/Tr0ya7/Cinetag"
     }
 ]

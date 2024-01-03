@@ -2,6 +2,7 @@ import Contact from './contact'
 import { BiLogoLinkedin } from 'react-icons/bi'
 import { FiGithub } from 'react-icons/fi'
 import Image from 'next/image'
+import { HiOutlineMail } from "react-icons/hi"
 
 export default function ContactMe() {
     return (
@@ -28,6 +29,9 @@ export default function ContactMe() {
                         </Contact>
                         <Contact href="https://github.com/Tr0ya7">
                             <FiGithub className="contact" />
+                        </Contact>
+                        <Contact href="mailto:LuizHBarros@proton.me">
+                            <HiOutlineMail className="contact" />
                         </Contact>
                     </div>
                 </div>

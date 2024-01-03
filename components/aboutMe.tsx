@@ -30,17 +30,17 @@ export default function AboutMe() {
                     "
                 >
                     <li className="mb-2.5">
-                        Sou uma pessoa apaixonada por programação e tecnologia de modo geral. Minha jornada me conduziu 
-                        por um profundo envolvimento com a manutenção de diversos bancos de dados, também vindo a 
-                        explorar suas interligações em softwares empresariais e sites. Possuo também uma singela 
-                        experiência na área web, vindo a trabalhar com o uso dela no meu recente trabalho (mesmo não 
-                        pertencendo a essa área a empresa em questão) de maneira como para uso comercial/profissional, 
-                        vendo que já desenvolvi em conjunto com mais um programador PHP um site que foi vendido.
+                        Sou uma pessoa apaixonada por programação e tecnologia de modo geral. Obtive meu primeiro 
+                        contato com a área com o ensino médio e técnico e logo nele comecei a trabalhar na área, 
+                        concluindo meu projeto de conclusão de curso fazendo uma venda em conjunto com colegas de um 
+                        site para uma barbearia local da cidade.
                     </li>
                     <li>
-                        Sou um profissional que por experiência acabei adquirindo muito tato as requisições e desejos 
-                        do consumidor final, pela experiência adquirida como programador Front-end, Delphi e suporte no 
-                        ERP da minha última empresa.
+                        E logo após a essa venda me encontro empregado a uma software house, que presta serviços a de
+                        ERP a diversas empresas de diversos ramos de vários estados do Brasil. E que hoje sendo o único
+                        programador com conhecimentos fullstack contratado por ela, pude fazer vários projetos web do 
+                        zero usando as técnilogias escolhidas por mim, além de manter em conjunto um sistema em 
+                        Delphi 10 e Delphi 7.
                     </li>
                 </div>
             </ul>
