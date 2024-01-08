@@ -14,7 +14,7 @@ export default function Habilits() {
             "
             id="habilits"
         >
-            <ul className=" lg:mt-20 lg:max-w-[1260px] vLaptopGScreen:mt-0 vLaptopScreen:relative">
+            <ul className="lg:mt-20 lg:max-w-[1260px] vLaptopGScreen:mt-0 vLaptopScreen:relative">
                 <div className="flex flex-col lg:w-[440px] lg:absolute lg:right-2">
                     <div>
                         <li className="font text-xl md:text-4xl lg:flex">

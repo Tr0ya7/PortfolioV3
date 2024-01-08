@@ -3,6 +3,7 @@ import { BiLogoLinkedin } from 'react-icons/bi'
 import { FiGithub } from 'react-icons/fi'
 import Image from 'next/image'
 import { HiOutlineMail } from "react-icons/hi"
+import { FaWhatsapp } from "react-icons/fa"
 
 export default function ContactMe() {
     return (
@@ -24,7 +25,7 @@ export default function ContactMe() {
                         Desenvolvedor Fullstack
                     </div>
                     <div className="flex">
-                        <Contact href="colocar link">
+                        <Contact href="https://www.linkedin.com/in/luiz-henrique-barros-93220b2a8/">
                             <BiLogoLinkedin className="contact" />
                         </Contact>
                         <Contact href="https://github.com/Tr0ya7">
@@ -32,6 +33,9 @@ export default function ContactMe() {
                         </Contact>
                         <Contact href="mailto:LuizHBarros@proton.me">
                             <HiOutlineMail className="contact" />
+                        </Contact>
+                        <Contact href="https://wa.me/14997692681">
+                            <FaWhatsapp className="contact" />
                         </Contact>
                     </div>
                 </div>
