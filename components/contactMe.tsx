@@ -31,7 +31,7 @@ export default function ContactMe() {
                         <Contact href="https://github.com/Tr0ya7">
                             <FiGithub className="contact" />
                         </Contact>
-                        <Contact href="mailto:LuizHBarros@proton.me">
+                        <Contact href="mailto:DevLuizHBarros@proton.me">
                             <HiOutlineMail className="contact" />
                         </Contact>
                         <Contact href="https://wa.me/14997692681">
