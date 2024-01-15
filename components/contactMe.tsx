@@ -25,7 +25,7 @@ export default function ContactMe() {
                         Desenvolvedor Fullstack
                     </div>
                     <div className="flex">
-                        <Contact href="https://www.linkedin.com/in/luiz-henrique-barros-93220b2a8/">
+                        <Contact href="https://www.linkedin.com/in/luiz-henrique-barros/">
                             <BiLogoLinkedin className="contact" />
                         </Contact>
                         <Contact href="https://github.com/Tr0ya7">

@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "title": "React: gerencimento de estados globais com ContextAPI",
+        "title": "React: gerenciamento de estados globais com ContextAPI",
         "institution": "Alura",
         "duration": "10 horas",
         "link": "https://drive.google.com/file/d/1fsznWtkfFqZl_mMHKsz0DonYejcdwoOt/view?usp=sharing",
@@ -68,7 +68,7 @@
         "title": "Tailwind CSS: estilizando a sua página com classes utilitárias",
         "institution": "Alura",
         "duration": "8 horas",
-        "link": "https://drive.google.com/file/d/11UYW43EdRNfPtciKAOUn5CRfluhq6uXC/view?usp=drive_link",
+        "link": "https://drive.google.com/file/d/11UYW43EdRNfPtciKAOUn5CRfluhq6uXC/view?usp=sharing",
         "year": 2023
     },
     {
@@ -84,7 +84,7 @@
         "title": "Node.js: continue seu projeto full stack criando uma API com Express",
         "institution": "Alura",
         "duration": "8 horas",
-        "link": "https://drive.google.com/file/d/1f_cSY69i0FrcsU8SpjobeBLCu6Z8ftG0/view?usp=drive_link",
+        "link": "https://drive.google.com/file/d/1f_cSY69i0FrcsU8SpjobeBLCu6Z8ftG0/view?usp=sharing",
         "year": 2023
     },
     {
@@ -92,7 +92,7 @@
         "title": "Java JRE e JDK: compile e execute o seu programa",
         "institution": "Alura",
         "duration": "8 horas",
-        "link": "https://drive.google.com/file/d/1RmhTYjSgtRgBL3yyqFISfvVgu006f1vR/view?usp=drive_link",
+        "link": "https://drive.google.com/file/d/1RmhTYjSgtRgBL3yyqFISfvVgu006f1vR/view?usp=sharing",
         "year": 2023
     },
     {
@@ -101,6 +101,30 @@
         "institution": "Alura",
         "duration": "8 horas",
         "link": "https://drive.google.com/file/d/1-o9DkxmLgAnQmIO_874FYgRJIvCPzvt8/view?usp=drive_link",
+        "year": 2023
+    },
+    {
+        "id": 14,
+        "title": "Java Polimorfismo: entenda herança e interfaces",
+        "institution": "Alura",
+        "duration": "16 horas",
+        "link": "https://drive.google.com/file/d/14Wa6MwCA5lO0yVBXNkVrZWJDiYMu6Jpj/view?usp=sharing",
+        "year": 2023
+    },
+    {
+        "id": 15,
+        "title": "Java Exceções: aprenda a criar, lançar e controlar exceções",
+        "institution": "Alura",
+        "duration": "12 horas",
+        "link": "https://drive.google.com/file/d/1kFmcGiLqx-yac8HjYFf-CRpKWYicBWRL/view?usp=sharing",
+        "year": 2023
+    },
+    {
+        "id": 16,
+        "title": "MongoDB: conhecendo um banco de dados NoSQL",
+        "institution": "Alura",
+        "duration": "8 horas",
+        "link": "https://drive.google.com/file/d/1AtAL5A-4U_sUPHAvE3OWTZ_JwQj9PvU9/view?usp=sharing",
         "year": 2023
     }
 ]
